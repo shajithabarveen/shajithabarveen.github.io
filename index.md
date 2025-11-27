@@ -26,6 +26,5 @@ I enjoy exploring data, solving meaningful problems, and building dashboards tha
 - 👤 [About Me](about.md)
 - ✉️ [Contact](contact.md)
 
-layout: default
-title: Home
+
 
