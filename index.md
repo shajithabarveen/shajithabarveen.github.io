@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Portfolio
 ---
 
-# 👋 Hi, I'm Shaji Umar
+# 👋 Hi, I'm Shajitha Barveen
 
 I'm a **Computer Science Engineer** and aspiring **Data Analyst** with skills in:
 
