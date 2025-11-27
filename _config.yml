@@ -7,3 +7,10 @@ description: Welcome to my portfolio website!
 include:
   - _includes/navigation.md
 
+# Custom Styling
+include:
+  - assets/css/style.css
+
+markdown: kramdown
+
+
