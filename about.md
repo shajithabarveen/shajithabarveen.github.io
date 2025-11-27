@@ -28,10 +28,32 @@ I love analyzing datasets, cleaning data, creating dashboards, and uncovering hi
 
 I'm currently improving my skills in:
 
+
+
 - 📊 Data Visualization (Tableau, Power BI)
 - 🐍 Python Automation & Analysis
 - 🗄 SQL Queries & Database Management
 
 I'm actively seeking **projects, internships, or entry-level data analytics roles**.
+
+<script>
+document.querySelectorAll("h1, h2, h3, p, .card").forEach(el => {
+  el.style.opacity = 0;
+  el.style.transform = "translateY(20px)";
+  el.style.transition = "all 0.6s ease";
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = 1;
+        entry.target.style.transform = "translateY(0)";
+      }
+    });
+  });
+
+  observer.observe(el);
+});
+</script>
+
 
 
