@@ -2,6 +2,8 @@
 layout: default
 title: Page Title
 ---
+{% include navigation.md %}
+
 # About Me
 
 I recently completed my Computer Science Engineering degree, and discovered my passion for **Data Analytics**.
