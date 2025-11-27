@@ -15,6 +15,11 @@ I'm a **Computer Science Engineer** and aspiring **Data Analyst** with skills in
 I enjoy exploring data, solving meaningful problems, and building dashboards that help decision-making.
 
 ---
+---
+layout: default
+title: Home
+---
+
 
 ### 🔍 Explore My Portfolio
 
