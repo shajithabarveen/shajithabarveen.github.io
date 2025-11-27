@@ -2,6 +2,8 @@
 layout: default
 title: Page Title
 ---
+{% include navigation.md %}
+
 # 📬 Contact
 
 - 📧 Email: shajeeumar04@gmail.com  
