@@ -3,3 +3,7 @@ theme: jekyll-theme-cayman
 title: My Portfolio
 description: Welcome to my portfolio website!
 
+# Navigation
+include:
+  - _includes/navigation.md
+
