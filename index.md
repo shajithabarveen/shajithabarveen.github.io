@@ -1,5 +1,10 @@
 ---
 title: Portfolio
+
+layout: default
+
+
+
 ---
 
 # 👋 Hi, I'm Shajitha Barveen
