@@ -1,0 +1,58 @@
+/* --------------------------------------------------
+   FONT STYLE (Google Font Import)
+-------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Apply the font globally */
+body {
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* --------------------------------------------------
+   DARK MODE STYLES
+-------------------------------------------------- */
+body.dark {
+  background-color: #111;
+  color: #e6e6e6;
+}
+
+a {
+  color: #007bff;
+  transition: 0.3s ease;
+}
+
+a:hover {
+  color: #ffa31a;
+  transform: scale(1.05);
+}
+
+/* --------------------------------------------------
+   HEADINGS + HOVER GLOW
+-------------------------------------------------- */
+h1, h2, h3 {
+  transition: 0.4s ease;
+}
+
+h1:hover, h2:hover, h3:hover {
+  color: #00eaff;
+  text-shadow: 0px 0px 10px rgba(0, 238, 255, 0.7);
+}
+
+/* --------------------------------------------------
+   CARD HOVER EFFECTS (for projects)
+-------------------------------------------------- */
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+}
+
